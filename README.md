@@ -12,7 +12,9 @@ all housed in a single lego brick.
 
 Sounds:
 
-ok
+
 lasergun
+
 bomb
+
 explosion
