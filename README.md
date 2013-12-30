@@ -1,7 +1,7 @@
 attiny-soundbrick
 =================
 
-A lego block that makes noises when moved or thrown
+Lego brick that makes sound effects when moved or thrown
 
 battery /
 attiny85 /
